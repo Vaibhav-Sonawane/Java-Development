@@ -1,0 +1,5 @@
+Total numbers: 14
+Sum: 3.7357353E7
+Average: 2668382.3571428573
+Maximum number: 3.1356356E7
+Minimum number: 1.0
